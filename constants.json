@@ -1,5 +1,5 @@
 {
-  "baseURL": "http://gravitee-test.cleverapps.io/management/",
+  "baseURL": "http://gravitee-management-api.cleverapps.io/management/",
   "portalTitle": "Gravitee.io Portal",
   "managementTitle": "Gravitee.io Management",
   "devMode": false,
@@ -8,7 +8,7 @@
     "url": "https://docs.gravitee.io"
   },
   "portal": {
-    "entrypoint": "https://gravitee-test.cleverapps.io",
+    "entrypoint": "http://gravitee-management-ui.cleverapps.io",
     "apikeyHeader": "X-Gravitee-Api-Key"
   },
   "theme": {
