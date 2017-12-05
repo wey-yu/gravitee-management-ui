@@ -1,0 +1,29 @@
+{
+  "baseURL": "http://gravitee-test.cleverapps.io/management/",
+  "portalTitle": "Gravitee.io Portal",
+  "managementTitle": "Gravitee.io Management",
+  "devMode": false,
+  "userCreationEnabled": true,
+  "documentation": {
+    "url": "https://docs.gravitee.io"
+  },
+  "portal": {
+    "entrypoint": "https://gravitee-test.cleverapps.io",
+    "apikeyHeader": "X-Gravitee-Api-Key"
+  },
+  "theme": {
+    "name": "default",
+    "logo": "themes/assets/GRAVITEE_LOGO1-01.png",
+    "loader": "assets/gravitee_logo_anim.gif"
+  },
+  "support": {
+    "enabled": false
+  },
+  "rating": {
+    "enabled": false
+  },
+  "analytics": {
+    "enabled": false,
+    "trackingId": ""
+  }
+}
